@@ -1,0 +1,12 @@
+InfoBegin
+InfoKey: CreationDate
+InfoValue: D:20220121170855+01'00
+InfoBegin
+InfoKey: Producer
+InfoValue: cairo 1.16.0 (https://cairographics.org)
+NumberOfPages: 1
+PageMediaBegin
+PageMediaNumber: 1
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89
